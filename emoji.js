@@ -10,6 +10,11 @@ const emojis = [
     "🙄",
     "😒",
     "🤦‍♀️",
+    "😊",
+    "🤷‍♂️",
+    "🥱",
+    "😴",
+    "😮‍💨",
 ];
 const face = document.querySelector("#face");
 const btn = document.getElementById("button");
